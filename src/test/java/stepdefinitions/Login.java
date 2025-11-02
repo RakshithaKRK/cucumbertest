@@ -17,7 +17,7 @@ public class Login {
 	public void enter_the_url() {
 		driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
-
+		System.out.println("user is on login page");
 		System.out.println("user is on login page");
 	}
 
