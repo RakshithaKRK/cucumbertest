@@ -6,5 +6,7 @@ public class Homepage {
 	
 		System.out.println("user is on login page");
 		System.out.println("user is on login page");
+		System.out.println("user is on login page");
+		
 }
 }
